@@ -3,7 +3,7 @@
 #### 介绍
 Xhy-Rpc
 供于学习使用，注释全，视频全
-[点我教学视频](https://www.bilibili.com/video/BV1th4y1w7wX/?vd_source=884a1f9702167e8936a8d6d773a193ae)
+[点我教学视频]()
 
 以SPI为基础架构搭建高拓展高可用的RPC。
 
