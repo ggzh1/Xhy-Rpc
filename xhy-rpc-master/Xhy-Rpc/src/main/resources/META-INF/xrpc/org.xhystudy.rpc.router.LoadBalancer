@@ -1,0 +1,2 @@
+consistentHash=org.xhystudy.rpc.router.ConsistentHashLoadBalancer
+roundRobin=org.xhystudy.rpc.router.RoundRobinLoadBalancer

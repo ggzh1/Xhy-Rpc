@@ -1,0 +1,2 @@
+redis=org.xhystudy.rpc.registry.RedisRegistry
+zookeeper=org.xhystudy.rpc.registry.ZookeeperRegistry

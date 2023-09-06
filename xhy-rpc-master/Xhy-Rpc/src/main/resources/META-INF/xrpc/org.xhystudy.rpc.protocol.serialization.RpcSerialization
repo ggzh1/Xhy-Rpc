@@ -1,0 +1,2 @@
+json=org.xhystudy.rpc.protocol.serialization.JsonSerialization
+hessian=org.xhystudy.rpc.protocol.serialization.HessianSerialization
